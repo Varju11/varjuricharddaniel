@@ -1,0 +1,1 @@
+Ez az oldal tartalmazná a felhasználót(felhasznalo)
