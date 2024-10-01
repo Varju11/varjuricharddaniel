@@ -1,0 +1,2 @@
+<?php
+print "urlap adatai";

@@ -25,3 +25,6 @@ Route::get('/bejelentkezes', function () {
 Route::get('/bemutatkozas', function () {
     return view('bemutatkozas');
 });
+Route::get('/urlap', function () {
+    return view('urlap');
+});
