@@ -28,3 +28,6 @@ Route::get('/bemutatkozas', function () {
 Route::get('/urlap', function () {
     return view('urlap');
 });
+Route::get('/gyakorlas', function () {
+    return view('gyakorlas');
+});
