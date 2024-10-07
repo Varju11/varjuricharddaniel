@@ -31,6 +31,9 @@ Route::get('/urlap', function () {
 Route::get('/gyakorlas', function () {
     return view('gyakorlas');
 });
+Route::get('/otthoniFeladat', function () {
+    return view('otthoniFeladat');
+});
 Route::view('/', 'welcome', ['name' =>'John']);
 Route::get('/pass-array', function () {
     $tasks = [
